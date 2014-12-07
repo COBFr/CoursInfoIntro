@@ -1,5 +1,5 @@
 #!/bin/make -f
-OUT		=0_out/
+OUT		=../out/
 CONFIG	=$(shell find . -iname "*.t2trc")
 CSS		=$(patsubst %.css,${OUT}%.css,$(wildcard *.css))
 DATE     =$(shell date +%Y%m%d-%H%M%S)
