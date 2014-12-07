@@ -57,11 +57,13 @@ Utilisation
 -----------
 Ce dépôt est géré par GIT. Pour le workflov je suis, scrupuleusement, gitflow.
 Avec deux modifications liées à l'usage de github:
-La branche de *développement* est la branche **Master**.
-Celle contenant la dernière version de *production* est la branche **stable**.
+* La branche de *développement* est la branche **Master**.
+* Celle contenant la dernière version de *production* est la branche **stable**.
 
 
-### make
+### Commandes
+> $ make
+
 Produis tous les documents
 
 
