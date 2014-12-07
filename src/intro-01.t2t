@@ -1,0 +1,92 @@
+Introduction commune
+Cours de dactylographie / informatique
+RC - COB %%date(%m/%Y)
+
+%!includeconf:confgen.t2trc
+
+
+=Données personnelles=
+Coller les étiquettes avec les données de connections sur l'agenda,
+  en première page bleue, sur les lignes //identifiant// et //mot de passe//
+
+===Explications:===
+: Courriel
+Le mot français pour //mail//, autrement dit, votre adresse de courrier électronique.
+: Fichiers
+Le dossier qui vous est réservé sur le serveur de l'école.
+Vous pouvez y accéder depuis la maison,
+en lecture seule avec votre navigateur habituel,
+en écriture avec un programme spécifique,
+comme Filezilla.
+: Identifiant
+Votre nom d'utilisateur sur les systèmes de l'école.
+Remarquez que c'est en fait la première partie de votre courriel.
+: passe
+Le mot de passe valide pour l'accès à vos fichiers, à votre courrier électronique et aux cours sur Moodle.
+: Éducanet
+Lien à rentrer dans votre navigateur Web pour aller gérer votre courrier électronique.
+Si vous êtes sur une machine de l'école, il vous suffit d'aller sur l'onglet //mail// et //éducanet//.
+: Moodle
+La plate-forme utilisée pour le cours d'informatique.
+
+
+=Éducanet2=
+La plate-forme //éducanet// est ce que l'on appelle un outil de //workgroup//, outil de travail en groupe permettant de partager des documents, des agendas, des carnets d'adresses et beaucoup d'autres choses.
+C'est aussi un outil permettant de gérer votre courrier électronique pour l'école.
+
+==Connections==
++ Lancez Firefox (surtout pas Safari);
++ Allez sur le menu "Élèves -> Liens" et cliquez sur "Éducanet"
++ donnez votre identifiant avec au moins "@belluard" //si cela ne fonctionne pas, essayez avec votre courriel complet//;
++ entrer votre mot de passe.
++
+
+==Signature==
++ Allez sur: //espace privé// -> //messagerie// -> //préférence// -> //signature//;
++ dans la zone de texte, ajoutez:
+  - sur la première ligne: **Prénom NOM**
+  - sur la seconde ligne: **1A 2013-2014**
+
+
+==Profil==
++ Allez sur: //profil// (bas de la colonne de gauche) -> //modifier le profil//;
++ Modifiez les champs suivant:
+  : Mon profil peut être publié
+  Sélectionnez la case à cocher
+  : Nom à l'écran
+  **Prénom NOM 1A**
+  : Prénom
+  Vous devriez le connaître...
+  : Nom
+  Le nom de famille **tout en majuscule**
+
+
+Tout le reste, il faut le laisser **vide**.
+Après contrôle par un prof., vous cliquez sur //sauvegarder//.
+
+
+=Courriel=
+Envois d'un premier courrier électronique.
+
++ Allez sur: //institution// -> //Mes classes// -> //1A// -> //Liste des membres// -> //afficher tous les membres//;
++ sélectionnez vos deux profs de dactylo et d'informatique;
++ cliquer sur //rédiger un message// (tout en bas de la liste);
++ dans le champ //objet// vous tapez: **1Ainf Test de messagerie**
++ dans le champ texte, vous écrivez:
+  - une formule de salutation,
+  - la raison pour laquelle vous nous écrivez ce message (faite travaillez votre imagination),
+  - une formule de politesse finale;
++ vous corrigez les fautes;
++ vous relisez le texte pour corriger les fautes;
++ vous relisez votre prose;
++ est-ce que j'ai dit que vous deviez corriger les fautes?
++ vous cliquez sur //envoyer le message//
+
+
+=Devoirs=
+Vous recevrez, mercredi, un courriel avec les devoirs pour la semaine prochaine.
+N'oubliez pas d'aller contrôler votre boite de réception.
+Dernier délai pour rendre votre devoir, vendredi soir.
+
+
+{FOOT}

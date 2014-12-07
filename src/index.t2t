@@ -1,0 +1,15 @@
+Introduction commune
+Cours de dactylographie / informatique
+RC - COB
+
+%!includeconf:confgen.t2trc
+%!Options: --no-toc
+
+= Index du dossier =
+- [première leçons ./intro-01.html]
+- [deuxième leçons ./intro-02.html]
+- [troisième leçons ./intro-03.html]
+
+
+{FOOT}
+
