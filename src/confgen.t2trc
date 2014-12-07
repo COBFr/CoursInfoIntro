@@ -1,0 +1,27 @@
+%!encoding			: UTF-8
+%!target				: html
+%!options			: --toc --toc-level=6
+
+
+%!PreProc			: "^{{{1\s*(.*)" "= \1 ="
+%!PreProc			: "^{{{2\s*(.*)" "== \1 =="
+%!PreProc			: "^{{{3\s*(.*)" "=== \1 ==="
+%!PreProc			: "^{{{4\s*(.*)" "==== \1 ===="
+%!PreProc			: "^{{{5\s*(.*)" "===== \1 ====="
+%!PreProc			: "^{{{6\s*(.*)" "====== \1 ======"
+
+%!PreProc			: "\s*{{{[1-5]" ""
+%!PostProc			: "\s*{{{[1-5]" ""
+%!options(html)	: --css-sugar
+%!style(html)		: modern.css
+
+%% Ajout du pied de page
+%!PreProc(html)	: "{FOOT}" "%!include: confhtmlfoot.t2trc"
+
+%% Ajout d'un lien vers l'index du dossier
+%!PostProc(html)  : '(<DIV CLASS="toc">)' '\1\n  <ul>\n	  <li><a href="index.html">Index</a></li>\n  </ul>'
+
+%% Symboles
+%!PostProc(html)	: '-&gt;'	'&rarr;'
+%!PostProc(html)  : '\\\\' '<br>'
+

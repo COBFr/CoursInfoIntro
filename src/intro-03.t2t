@@ -1,0 +1,103 @@
+Introduction commune (3) {{{1
+Cours de dactylographie / informatique
+RC - COB %%date(%m/%Y)
+
+%!includeconf:confgen.t2trc
+
+
+{{{1 Logiciels
+Vous aurez probablement besoin de différents programmes pour pouvoir faire vos devoirs et vos rédactions.
+Il n'est cependant pas nécessaire de casser votre tirelire et de faire des frais.
+Tout ce dont vous pourrez avoir besoin existe en logiciel gratuit,
+   et même en logiciel libre.
+
+Vous trouverez sur le site de l'école une série de liens vers des programmes intéressants
+  [ici http://www.co-belluard.ch/2010/index.php/branches/informatique-dactylo/logiciels]:
+	Branches -> informatique dactylo -> logiciels
+
+
+{{{2 LibreOffice
+Pour faire vos pages de titre,
+  vos rédactions,
+  vos dossiers...
+Le programme dont vous avez besoin est un traitement de texte.
+
+Certainement que vous connaissez déjà Word®,
+  qui est assez mauvais,
+  compliqué à utiliser,
+  mais surtout qui est très cher pour ce qu'il vaut...
+Nous vous recommandons plutôt d'utiliser LibreOffice,
+  un programme gratuit,
+  libre,
+  avec plus de possibilités,
+  moins de bogues.
+
+Vous le trouvez à cette adresse:
+[https://fr.libreoffice.org/]
+
+
+{{{2 PDF
+Vous recevrez probablement des documents en format PDF,
+  c’est-à-dire dans un format qui permet d'être lu sur tous les ordinateurs
+  en conservant la mise en page.
+Normalement, votre ordinateur est déjà équipé d'un programme permettant de lire les PDF.
+
+
+{{{1 Gestion du classeur
+Vous aurez souvent à partager des documents.
+Souvent, vous aurez à travailler sur un document depuis plusieurs endroits 
+  (la maison, l'école...)
+  Pour les entreposer sur Internet,
+  et donc y avoir accès de partout,
+  vous disposez des "classeurs" sur éducanet2.
+C'est un dossier,
+  dans lequel vous pouvez créer des sous dossiers
+  pour y déposer vos documents d'une manière ordonnée.
+
+
+{{{2 Classeurs de classe
+C'est un classeur auquel tous vos enseignants et tous vos camarades de classe peuvent accéder.
+vous le trouvez ici:
+	institution -> Mes classes -> //votre classe// -> (organiser) Classeur
+
+Vous pouvez:
+- naviguer dans les dossiers
+- télécharger un document
+- créer des dossiers
+- envoyer des documents
+
+
+{{{2 Classeur privé
+Vous seul,
+  et les administrateurs du serveur
+  avez accès à ce classeur.
+vous le trouvez ici:
+	Espace privé -> (organiser) Classeur
+
+Vous pouvez:
+- naviguer dans les dossiers
+- télécharger un document
+- créer des dossiers
+- envoyer des documents
+
+
+{{{2 Créer des dossiers
+**À faire**
++ aller dans le classeur de votre classe
++ déposer sur votre **bureau** les fichiers suivants
+  (il faut les chercher dans les sous-dossiers):
+  - dactylo.odt
+  - photo.jpg
+  - poesie.pdf
++ allez dans votre propre classeur
++ chercher comment faire pour créer les  nouveaux dossiers suivants:
+  - Dactylo
+  - Informatique
++ déposer dans "informatique":
+  - photo.jpg
+  - poesie.pdf
++ déposer dans "dactylo":
+  - dactylo.odt
+
+
+{FOOT}

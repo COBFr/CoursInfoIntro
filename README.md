@@ -1,10 +1,6 @@
 Introduction au cours d'informatique
 ====================================
 
-Version
--------
-/master Création du dépôt
-
 Ce que le projet fait
 ---------------------
 Ce dépôt est prévu pour gérer les documents utiles au cours d'introduction
