@@ -3,13 +3,13 @@ Version
 
 Branche
 -------
-Fermeture
-feature/importation
+Création
+release/Version_Initiale
 
 
 Objectif
 --------
-Importer le travail déjà fait hors gestion de version.
+Tenir une archive du travail d'origine
 
 Les documents pdf de documentations ont été placé dans l'arborescence du dossier
 informatique.
