@@ -1,0 +1,252 @@
+Introduction commune (2) {{{1
+Cours de dactylographie / informatique
+RC - COB %%date(%m/%Y)
+
+%!includeconf:confgen.t2trc
+
+= Devoirs = {{{1
+== Corrigé == {{{2
+=== Adresse du destinataire  === {{{3
+Non,
+  je ne puis dire "mon nom est personne"... Ni message d'ailleurs!
+Vous avez mis comme adresse: ``message@belluard.educanet2.ch``
+
+Et vous n'avez même pas essayé de vous connecter à votre compte depuis le dernier cours!
+
+	Une puce électronique est fondamentalement stupide! C'est à vous de contrôler que l'adresse est écrite correctement.
+
+=== Signature  === {{{3
+Les messages électroniques,
+  comme le courrier ordinaire,
+  comportent une signature,
+  que nous avons créée la semaine dernière.
+Celle-ci se distingue dans le message par une ligne:
+	-- 
+Deux traits d'union **et** une espace.
+
+Il est important d'écrire votre message **avant** la signature!
+Dans les courriers électroniques,
+  il est même important qu'il n'y ait rien après la signature,
+  car votre programme de courrier électronique va couper tout ce qui est après le signe ``-- ``
+
+=== Sujet  === {{{3
+Appelé aussi //objet//.
+Comme expliqué la semaine dernière,
+  ne pas remplir correctement ce champ est une marque d'impolitesse.
+
+C'est bien le //sujet// qu'il faut y mettre,
+  et non pas tout le message!
+
+=== Salutations  === {{{3
+Comme vous dites //bonjour// dans la vie courante,
+  dans les courriers vous saluez aussi votre interlocuteur!
+
+Ces salutations se mettent sur la première ligne de votre courrier,
+  et l'on n'y met rien d'autre.
+Après les salutations,
+  il faut laisser une ligne blanche.
+
+=== Formules de politesse  === {{{3
+De même que pour les salutations,
+  la formule de politesse finale s'impose.
+Là aussi,
+  il faut prévoir une ligne vide,
+  puis la ligne des politesses,
+  sans rien d'autre.
+
+=== Majuscule  === {{{3
+Pour la correspondance numérique,
+  écrire un mot ou une phrase en lettre majuscule équivaut à hurler.
+  À moins que vous vouliez souffler dans les bronches de votre interlocuteur,
+  vous vous devez d'écrire en minuscule.
+Sauf,
+  bien sûr,
+  les premières lettres des phrases,
+  des noms propres et les sigles.
+
+Ceci est vrai aussi bien pour le courrier électronique que pour les //chat// ou les salons //IRC//.
+
+=== Citations du texte d'origine  === {{{3
+Votre courrielleur vous met automatiquement une copie du message d'origine dans la boîte de rédaction de votre réponse.
+Il y a là quelques points à noter:
+- Chaque ligne du message d'origine commence par "> "
+- Vous mettez votre réponse **en dessous** du texte original
+- Vous **devez** supprimer du message original tout ce qui n'est pas utile à la compréhension de votre réponse.
+
+C'est une marque d'impolitesse de votre part que de penser que c'est votre lecteur qui n'a que ce débrouiller pour trouver dans votre fouillis.
+C'est comme donner une lettre écrite à la main pleine de rature et tellement mal écrite que votre interlocuteur a de la peine à la lire.
+
+Exemple d'une réponse correcte: {{{5
+```
+De: Cyril Rouiller <cyril.rouiller@fr.educanet2.ch>
+À: xxxxxx xxxxxx <xxxxxxxxxxxxx@xxxxxxxxxxxxx>
+Sujet: Re: Inscription ER/ECR
+Date: Thu, 5 Sep 2013 22:33:25 +0200
+X-Mailer: Claws Mail 3.9.2 (GTK+ 2.24.20; x86_64-ARCH-linux-gnu)
+Société: Cycle d'Orientation du Belluard
+
+Cher xxxxxx
+
+Le Thu, 5 Sep 2013 22:41:22 +0200,
+xxxxxx xxxxxx <xxxxxxxxxxxxx@xxxxxxxxxxxxx> a écrit :
+> Les infos vont à une vitesse... Tu me diras comment tu sais que
+> xxxxxxx est allé chercher ces infos !?  
+
+Tout simplement, car nous étions à la salle des maîtres pour compulser nos
+listes quand nous l'avons entendu interroger les élèves dans le corridor.
+Nous avons pu lui donner les réponses qu'il cherchait.
+
+
+> Je lui ai demander quelques renseignements, car je dois retourner des
+> statistiques de rentrée pour... mercredi !
+> Donc, avec xxxxxxx, on s'active pour avoir un peu d'avance.  
+
+Veux-tu que je passe demain à Fribourg pour les apporter? Je pourrais
+le faire en fin de matinée (je serais à Moudon avant).
+
+
+> As-tu vu xxxxxxx pour la marche des premières?
+
+Oui, merci, il a pu répondre à mes questions.
+
+
+Bonne fin de semaine
+
+-- 
+Cyril Rouiller
+CO du Belluard
++41 79 xxx xx xx
+```
+
+
+== Devoir non fait == {{{2
+Pensez-vous que les devoirs sont facultatifs au CO?
+
+Un certain nombre d'entre vous ne sont pas allés regarder leur messagerie!
+Cela fait une coche...
+
+
+= Gestion du courrier électronique = {{{1
++ Connectez-vous à Éducanet
++ -> ``espace privé``
++ -> ``Messagerie``
+
+
+Votre boîte de courrier ne dispose pas d'une place infinie.
+Il vous faut de temps en temps:
+- supprimer les messages inutiles;
+- sauvegarder les messages importants sur votre machine;
+- enregistrer les pièces jointes lourdes
+  (photos, vidéo, documents contenant des images)
+
+
+Vous pouvez sélectionner une série de messages (en cochant la case à leur gauche) et décider de les envoyer dans la poubelle.
+
+Vos messages sont automatiquement détruits:
+- au bout d'une année pour la boîte de réception
+- 4 semaines pour la poubelle
+
+
+= Pièces jointes = {{{1
+== Enregistrer une pièce jointe == {{{2
+Les pièces jointes liées à votre message sont signalées dans le tableau bleu au-dessus du message.
+Il vous suffit de cliquer dessus pour pouvoir les lire.
+Pour les enregistrer sur votre disque dur,
+  vous devez cliquer sur le lien avec le bouton droit de la souris et choisir le menu:
+  ``Enregistrer la cible du lien sous``.
+
+Attention,
+  suivant le programme et l'OS que vous utilisez,
+  il est fort probable que les mots ne soient pas les mêmes.
+
+
+== Envoyer une pièce jointe == {{{2
+Il est possible d'attacher un (ou plusieurs) fichier à vos messages.
+
+Pour ce faire,
+  dans la fenêtre de rédaction:
++ cliquer sur ``parcourir`` (en bas à gauche)
++ choisissez le fichier à joindre dans la boîte qui s'affiche
++ cliquer sur ``Déposer fichier`` (en bas à droite)
+	Attention, si cette dernière opération n'est pas faite, votre fichier ne sera pas joint!
+
+
+Cela peut durer un petit moment avant que votre fichier soit transféré.
+
+
+= Destinataires = {{{1
+Il est possible d'envoyer votre courrier électronique à plusieurs personnes à la fois.
+Il y a certaines règles à respecter.
+
+== À == {{{3
+Le champ "à" (to) est absolument obligatoire.
+C'est là qu'il faut entrer l'adresse de la personne à qui vous vous adressez dans votre courrier.
+
+Il est possible de mettre plusieurs adresses,
+  elles doivent alors être séparées par des virgules.
+
+== CC == {{{3
+Pour ``Copie conforme`` (Carbon Copy).
+Vous mettez ici,
+  si besoin,
+  l'adresse des personnes à qui vous voulez mettre une copie de votre message,
+  mais à qui vous ne vous adressez pas directement dans votre courrier.
+
+Chacune des adresses doit être séparée par une virgule.
+
+== CCi == {{{3
+Pour ``Copie conforme invisible`` (BCC Blind Carbon Copy).
+Vous mettez ici les adresses des personnes à qui vous voulez envoyer une copie de votre message sans que les personnes inscrites dans "À" et "CC" ne puissent le savoir.
+
+Nous verrons en cours d'informatique qu'il y a plusieurs règles de politesses à respecter concernant ces adresses.
+
+
+= Carnet d'adresses = {{{1
+Comme il serait bien fastidieux de devoir écrire les adresses des destinataires à chaque message,
+  les logiciels de courrier électronique proposent tous des systèmes de gestion d'adresses.
+
+Sur Éducanet:
++ -> ``espace privé``
++ -> ``Carnet d'adresses``
++ -> ``Nouvelles adresses``
+
+
+Pour ajouter des adresses:
+
+__**Depuis un message que vous avez reçus**__
+- Dans la liste des messages\\
+  cliquer sur le "@" à gauche du message
+- depuis le message,
+  à côté de chaque adresse dans le tableau bleu au-dessus du message vous avez un "@" vous permettant de l'ajouter à votre carnet
+
+
+__**Depuis les listes des membres**__
+- Dans chaque liste des membres disponibles sous l'onglet ``Institution`` (votre classe) il y a un "@" à-côté des adresses pour les ajouter.
+
+
+= Devoir = {{{1
+Pour le dimanche soir au plus tard.
+
+Toutes les indications nécessaires pour pouvoir faire votre devoir sont données plus haut dans cette page.
+À vous de les chercher, et surtout de **bien les lires**!
+
+	//Chaque donnée numérotée compte pour un point sur la note//
+
+- Envoyez-moi un courrier électronique respectant les règles de politesse énoncées  plus haut.
+  + comme sujet, très exactement ceci: "**InfA1 devoir 2**"
+  + salutations correctes
+  + la  raison pour laquelle vous m'envoyez ce courrier
+  + formules de politesse finales
+  + joindre le fichier que vous trouverez à l'adresse:
+    [netiquette.pdf http://ecole.co-belluard.ch/~rouiller/tice/netiquette.pdf]
+  + correction du français
+
+- Ajoutez dans votre carnet d'adresses:
+  - M. Angeloz
+  - votre maître de classe
+  - M. Rouiller
+  - deux camarades de votre classe
+
+
+
+{FOOT}
