@@ -4,7 +4,7 @@ Pour connaître la version en cours, voir le fichier **VERSION.md**.
 
 * Pour la dernière branche stable pour la production voir:
 	* https://github.com/COBFr/CoursInfoIntro/tree/stable
-Pour la branche en cours de préparation voir:
+* Pour la branche en cours de préparation voir:
 	* https://github.com/COBFr/CoursInfoIntro/tree/master
 
 
@@ -60,6 +60,7 @@ Utilisation
 -----------
 Ce dépôt est géré par GIT. Pour le workflov je suis, scrupuleusement, gitflow.
 Avec deux modifications liées à l'usage de github:
+
 * La branche de *développement* est la branche **Master**.
 * Celle contenant la dernière version de *production* est la branche **stable**.
 

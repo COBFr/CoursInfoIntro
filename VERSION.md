@@ -4,13 +4,10 @@ Version
 Branche
 -------
 Création
-release/Version_Initiale
+hotfix/readme
 
 
 Objectif
 --------
-Tenir une archive du travail d'origine
-
-Les documents pdf de documentations ont été placé dans l'arborescence du dossier
-informatique.
+Correction d'un bogue à l'affichage du readme en MarkDown.
 
