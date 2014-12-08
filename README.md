@@ -4,7 +4,7 @@ Pour connaître la version en cours, voir le fichier **VERSION.md**.
 
 * Pour la dernière branche stable pour la production voir:
 	* https://github.com/COBFr/CoursInfoIntro/tree/stable
-Pour la branche en cours de préparation voir:
+* Pour la branche en cours de préparation voir:
 	* https://github.com/COBFr/CoursInfoIntro/tree/master
 
 
